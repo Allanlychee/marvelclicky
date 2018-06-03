@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "./assets/images/BlackWidow.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "./assets/images/CaptainAmerica.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "./assets/images/Cyclops.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "./assets/images/GreenLantern.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "./assets/images/Ironman.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "./assets/images/Juggernaut.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "./assets/images/Magneto.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "./assets/images/Spiderman.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "./assets/images/Storm.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "./assets/images/Thanos.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "./assets/images/Venom.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "./assets/images/Wolverine.jpg",
+    "clicked": false
+  }
+]

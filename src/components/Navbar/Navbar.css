@@ -1,0 +1,28 @@
+.nav-wrapper{
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+}
+
+.brand-logo {
+  position: relative;
+  left:0;
+  margin-left:15px;
+}
+
+.gameStatus{
+    position:relative;
+    right:0;
+}
+
+.Scoress {
+    margin-right: 15px;
+}
+
+
+.topScoress {
+    margin-right: 50px;
+}
+
+.statusMessage {
+    position: absolute;
+    left:30%;
+}
